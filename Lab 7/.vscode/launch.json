@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/DELL/Desktop/COM221 Labs/Lab 5",
-      "program": "c:/Users/DELL/Desktop/COM221 Labs/Lab 5/build/Debug/outDebug",
+      "cwd": "c:/Users/DELL/Desktop/COM221 Labs/Lab 7",
+      "program": "c:/Users/DELL/Desktop/COM221 Labs/Lab 7/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

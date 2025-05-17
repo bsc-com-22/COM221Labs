@@ -44,6 +44,7 @@ int main(){
             cout << "Enter the base of the triangle" << endl;
             cin >> base;
             cout << "Enter height of the triangle" << endl;
+            cin >> height;
             cout << "Area of the triangle is: " <<areaOfTriangle(base, height) <<endl;
             break; 
         case 4:
